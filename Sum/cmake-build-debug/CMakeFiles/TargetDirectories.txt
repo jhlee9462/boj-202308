@@ -1,0 +1,3 @@
+/home/jhlee/CLionProjects/BOJ/Sum/cmake-build-debug/CMakeFiles/Sum.dir
+/home/jhlee/CLionProjects/BOJ/Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jhlee/CLionProjects/BOJ/Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

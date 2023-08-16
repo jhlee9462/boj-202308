@@ -1,0 +1,3 @@
+/home/jhlee/CLionProjects/BOJ/CompareNumber/cmake-build-debug/CMakeFiles/CompareNumber.dir
+/home/jhlee/CLionProjects/BOJ/CompareNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jhlee/CLionProjects/BOJ/CompareNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
