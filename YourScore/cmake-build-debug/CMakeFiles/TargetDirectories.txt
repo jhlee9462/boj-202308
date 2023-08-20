@@ -1,0 +1,3 @@
+C:/Users/kiwyb/CLionProjects/boj-202308/YourScore/cmake-build-debug/CMakeFiles/YourScore.dir
+C:/Users/kiwyb/CLionProjects/boj-202308/YourScore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kiwyb/CLionProjects/boj-202308/YourScore/cmake-build-debug/CMakeFiles/rebuild_cache.dir
