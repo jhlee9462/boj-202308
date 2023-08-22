@@ -1,0 +1,3 @@
+/home/jhlee/CLionProjects/BOJ/ColorPaper/cmake-build-debug/CMakeFiles/ColorPaper.dir
+/home/jhlee/CLionProjects/BOJ/ColorPaper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jhlee/CLionProjects/BOJ/ColorPaper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
