@@ -1,0 +1,11 @@
+# ninja log v5
+0	328	7153239038060929	CMakeFiles/FindFraction.dir/main.cpp.obj	54335a1ec3509d7e
+329	538	7153239040134297	FindFraction.exe	8ecdfc05c32aa292
+2	283	7153239536942301	CMakeFiles/FindFraction.dir/main.cpp.obj	54335a1ec3509d7e
+283	347	7153239537561854	FindFraction.exe	8ecdfc05c32aa292
+3	352	7153239978798192	CMakeFiles/FindFraction.dir/main.cpp.obj	54335a1ec3509d7e
+352	426	7153239979500428	FindFraction.exe	8ecdfc05c32aa292
+2	415	7153241223515443	CMakeFiles/FindFraction.dir/main.cpp.obj	54335a1ec3509d7e
+416	482	7153241224146677	FindFraction.exe	8ecdfc05c32aa292
+3	393	7153242097157881	CMakeFiles/FindFraction.dir/main.cpp.obj	54335a1ec3509d7e
+393	459	7153242097798784	FindFraction.exe	8ecdfc05c32aa292
