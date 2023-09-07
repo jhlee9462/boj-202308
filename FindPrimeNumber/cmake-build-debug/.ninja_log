@@ -1,0 +1,9 @@
+# ninja log v5
+0	355	7158005212550039	CMakeFiles/FindPrimeNumber.dir/main.cpp.obj	dc8b082e0cebc753
+356	461	7158005213577578	FindPrimeNumber.exe	feadbc2e8f7a9a12
+3	325	7158009009400078	CMakeFiles/FindPrimeNumber.dir/main.cpp.obj	dc8b082e0cebc753
+326	408	7158009010170654	FindPrimeNumber.exe	feadbc2e8f7a9a12
+4	373	7158009473163039	CMakeFiles/FindPrimeNumber.dir/main.cpp.obj	dc8b082e0cebc753
+373	447	7158009473855666	FindPrimeNumber.exe	feadbc2e8f7a9a12
+3	375	7158012708219185	CMakeFiles/FindPrimeNumber.dir/main.cpp.obj	dc8b082e0cebc753
+376	482	7158012709242773	FindPrimeNumber.exe	feadbc2e8f7a9a12
