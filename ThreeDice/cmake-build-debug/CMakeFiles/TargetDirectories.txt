@@ -1,3 +1,0 @@
-/home/jhlee/CLionProjects/BOJ/ThreeDice/cmake-build-debug/CMakeFiles/ThreeDice.dir
-/home/jhlee/CLionProjects/BOJ/ThreeDice/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jhlee/CLionProjects/BOJ/ThreeDice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/jhlee/CLionProjects/BOJ/RadixTransformation2/cmake-build-debug/CMakeFiles/RadixTransformation2.dir
-/home/jhlee/CLionProjects/BOJ/RadixTransformation2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jhlee/CLionProjects/BOJ/RadixTransformation2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

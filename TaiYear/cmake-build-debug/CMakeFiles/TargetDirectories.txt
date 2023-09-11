@@ -1,3 +1,0 @@
-/home/jhlee/CLionProjects/BOJ/TaiYear/cmake-build-debug/CMakeFiles/TaiYear.dir
-/home/jhlee/CLionProjects/BOJ/TaiYear/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jhlee/CLionProjects/BOJ/TaiYear/cmake-build-debug/CMakeFiles/rebuild_cache.dir

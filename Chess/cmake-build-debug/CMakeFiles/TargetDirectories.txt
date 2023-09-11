@@ -1,3 +1,0 @@
-/home/jhlee/CLionProjects/BOJ/Chess/cmake-build-debug/CMakeFiles/Chess.dir
-/home/jhlee/CLionProjects/BOJ/Chess/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jhlee/CLionProjects/BOJ/Chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/jhlee/CLionProjects/BOJ/Leaf/cmake-build-debug/CMakeFiles/Leaf.dir
-/home/jhlee/CLionProjects/BOJ/Leaf/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jhlee/CLionProjects/BOJ/Leaf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
